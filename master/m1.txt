@@ -1,0 +1,19 @@
+In the next lecture we will update the Personal Access Token (3:40 in the next video).
+
+For MacOS users, the credentials can be updated via the terminal as follows:
+
+---
+
+git credential-osxkeychain erase PRESS RETURN KEY
+
+host=github.com PRESS RETURN KEY
+
+protocol=https PRESS RETURN KEY
+
+PRESS RETURN KEY
+
+PRESS RETURN KEY
+
+---
+
+If you try to push to the remote repository afterwards, you will be prompted to enter your credentials.
